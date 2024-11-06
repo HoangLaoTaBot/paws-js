@@ -1,4 +1,7 @@
 {
+    "AUTO_CONNECT_WALLET": true,
+    "AUTO_TASK": true,
+
     "AUTO_GET_NEW_QUERY_ID": false,
     "AUTO_WRITE_ERROR": true,
     "AUTO_SEND_ERROR_TELEGRAM": false,
@@ -13,5 +16,5 @@
     "BOT_CHANNEL_ID": "",
     "BOT_TOKEN_LOGOUT": "",
     "BOT_CHANNEL_ID_LOGOUT": "",
-    "BOT_NAME_GAME": "Pocket Fi"
+    "BOT_NAME_GAME": "Paws"
 }
