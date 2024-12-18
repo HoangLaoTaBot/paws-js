@@ -1,6 +1,7 @@
 {
-    "AUTO_CONNECT_WALLET": true,
     "AUTO_TASK": true,
+    "AUTO_CONNECT_WALLET_PHAN_TOM": false,
+    "AUTO_CONNECT_WALLET_TON": false,
 
     "AUTO_WRITE_ERROR": true,
     "AUTO_SEND_ERROR_TELEGRAM": false,
